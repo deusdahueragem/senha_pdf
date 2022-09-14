@@ -1,0 +1,1 @@
+Proteger PDFs com senha, aponte qual PDF deseja proteger, insira a senha e será gerado um novo PDF protegido com senha.
