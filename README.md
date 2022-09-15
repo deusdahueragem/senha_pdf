@@ -1,1 +1,1 @@
-Proteger PDFs com senha, aponte qual PDF deseja proteger, insira a senha e será gerado um novo PDF protegido com senha.
+Aponte o PDF que deseja proteger, insira a senha e clique em Proteger PDF. Será gerado uma cópia do PDF protegida com senha na mesma pasta em que se encontra o PDF anterior.
